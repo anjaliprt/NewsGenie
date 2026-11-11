@@ -1,3 +1,4 @@
+
 # 🚀 NewsGenie: AI-Powered Information & News Assistant
 
 ![Google Gemini](https://img.shields.io/badge/LLM-Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -57,8 +58,8 @@ The orchestration graph governs state transformation using a deterministic routi
 
 
 ### 🖥️ Main Dashboard Overview
-![NewsGenie Main Dashboard Interface](https://via.placeholder.com/800x450?text=Insert+Streamlit+Main+Dashboard+Screenshot)
 
+https://github.com/user-attachments/assets/195dde3b-de3e-437b-9eaa-78bef196586d
 
 ---
 
