@@ -1,0 +1,20 @@
+# Secrets & API Keys
+.env
+*.env
+secrets.toml
+
+# Main Virtual Environment Folder
+venv/
+.venv/
+
+# Caches
+__pycache__/
+*.py[cod]
+.streamlit/config.toml
+
+*.mov
+*.avi
+
+*.png
+*.docx
+
